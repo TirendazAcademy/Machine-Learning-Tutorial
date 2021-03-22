@@ -29,7 +29,7 @@
 - ### [MODEL IMPROVEMENT](https://www.youtube.com/watch?v=S1nxwkTJpo0&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=24)
 - ### [EVALUATION METRICS](https://www.youtube.com/watch?v=5U8hc4irdbQ&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=25)
 - ### [PIPELINES](https://www.youtube.com/watch?v=8UMDSfoi2KA&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=26)
-- ### [TEXT ANALYSIS]()
+- ### [TEXT ANALYSIS](https://www.youtube.com/watch?v=JnAOuZ94y68&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=27)
 - ### [FEATURE ENGINEERING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 - ### [FEATURE SELECTION]()
 
