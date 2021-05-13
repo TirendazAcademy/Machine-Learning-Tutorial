@@ -33,7 +33,7 @@
 - ### [PIPELINES](https://www.youtube.com/watch?v=8UMDSfoi2KA&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=26)
 - ### [TEXT ANALYSIS](https://www.youtube.com/watch?v=JnAOuZ94y68&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=27)
 - ### [FEATURE ENGINEERING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
-- ### [FEATURE SELECTION]()
+- ### [FEATURE SELECTION](https://www.youtube.com/watch?v=857SKdW-Pvg&t=4s)
 
 ## Happy learning ... ✌️ 
 
