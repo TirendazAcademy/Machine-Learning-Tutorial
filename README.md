@@ -34,6 +34,7 @@
 - ### [TEXT ANALYSIS](https://www.youtube.com/watch?v=JnAOuZ94y68&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=27)
 - ### [FEATURE ENGINEERING](https://www.youtube.com/watch?v=Gh4DijnuX0o)
 - ### [FEATURE SELECTION](https://www.youtube.com/watch?v=857SKdW-Pvg&t=4s)
+- ### [INTRODUCTION MACHINE LEARNING](https://www.youtube.com/watch?v=146vch4ZZ14)
 
 ## Happy learning ... ✌️ 
 
