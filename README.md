@@ -1,8 +1,8 @@
 ![ML](https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-# Hello 😄
+# Hello Everyone 😄
 
-## Here you can find the Jupyter Notebook and datasets of machine learning tutorial Tirendaz Academy YoutTube channel. 
+## Here, you can find the jupyter notebook and datasets of the machine learning tutorial I used on the Tirendaz Akadem YoutTube channel. 
 
 ## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7p-an2KTO5o&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
 
