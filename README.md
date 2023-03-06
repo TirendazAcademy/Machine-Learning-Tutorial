@@ -1,10 +1,30 @@
-![ML](https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+![ML](https://img.freepik.com/free-photo/young-joyful-business-people-happily-working-laptop-together-group-smiling-men-women-spending-time-modern-cozy-office_574295-5693.jpg?w=1060&t=st=1672062187~exp=1672062787~hmac=9ed6a5bc8c1eb7368b226974e46619b1bc4fc296c91e5e194a53a48b624737ab)
 
-# Hello Everyone 😄
+[![](https://img.shields.io/badge/Python-blue?&style=plastic&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Pandas-navy?style=plastic&logo=pandas&logoColor=white)]()
+[![](https://img.shields.io/badge/Numpy-black?style=plastic&logo=numpy&logoColor=white)]()
+[![](https://img.shields.io/badge/Matplotlib-yellow?style=plastic&logo=matplotlib&logoColor=white)]()
+[![](https://img.shields.io/badge/Seaborn-purple?style=plastic&logo=seaborn&logoColor=white)]()
+[![](https://img.shields.io/badge/ScikitLearn-darkgreen?style=plastic&logo=scikit-learn&logoColor=white)]()
 
-## Here, you can find the jupyter notebook and datasets of the machine learning tutorial I used on the Tirendaz Akadem YoutTube channel. 
 
-## YouTube 👉  [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7p-an2KTO5o&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
+# Hi guys 😄
+
+Machine learning is a subfield of artificial intelligence that involves training algorithms to make predictions or decisions based on data. Machine learning algorithms are designed to automatically improve their performance as they are exposed to more data.
+
+This repo contains the jupyter notebooks and datasets I used on the [Tirendaz Akademi Youtube](https://www.youtube.com/c/TirendazAkademi) channel. In these tutorials, I used Pandas for data preprocessing, Numpy for multidimensional arrays and matrix operations, Matplotlib and Seaborn for data visualization, Scikit-Learn to implement machine learning algorithms.
+
+I hope this helps! Let me know if you have any questions. If you enjoy these notebooks and videos, don't forget to give a star ✨. 
+
+Let's Connect: 
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/c/tirendazakademi)
+[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://tirendazakademi.medium.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/AkademiTirendaz)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?&style=plastic&logo=twitter&logoColor=white)](https://www.twitter.com/TirendazAkademi)
+
+Happy learning 🎉
+
+# YouTube Videos [![](https://img.shields.io/badge/YouTube-Turkish-deeppink?&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7p-an2KTO5o&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
 
 - ### [HOW TO CREATE A MACHINE LEARNING MODEL](https://www.youtube.com/watch?v=4gy_tt9l0fE&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=3)
 - ### [SCIKIT-LEARN TUTORIAL-1](https://www.youtube.com/watch?v=glcVaiuQYK4&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF&index=4)
